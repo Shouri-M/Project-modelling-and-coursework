@@ -1,0 +1,21 @@
+
+RAILWAY RESERVATION SYSTEM
+To develop a user-friendly Railway Reservation System to enable passengers to
+book tickets online and make payment online as well.
+Railway reservation system project which provides the train timing details,
+reservation, billing and cancellation on various types of reservation namely,
+• Confirm Reservation for Seat.
+• Reservation against Cancellation.
+• Waiting list Reservation.
+• Online Reservation.
+• Tatkal Reservation
+This system enables the Advance booking in any class, against general and
+ladies quota, on payment of fare in full for adults and children, a maximum of six
+berths/seats at a time, for journey between any two stations served by a train.
+It also provides details about
+1. Timetable
+2. Train Fares
+3. Current status of reservation position
+4. Train available between a pair of stations
+5. Accommodation available for a train/date combination Types of tickets:
+General and Tatkaal

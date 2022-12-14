@@ -1,0 +1,19 @@
+
+HOSTEL MANAGEMENT SYSTEM
+The purpose of Hostel Management System is to carry out different
+operations of a hostel. This system will provide ease, comfort of use to the
+staff of the hostel by performing all work on computer. It helps to manage
+student and staff records.
+● Admin can login using credentials provided to him.
+● Admin can allot room to students.
+● Students can login using the credential provided and can give
+feedback about staff.
+● Admin can review the feedback provided by students.
+● Admin can appoint staff.
+● Students can provide mess feedback.
+● Mess managers can review the mess feedback.
+● Mess manager can update the menu list.
+● Admin can assign work to staff members.
+● The system should be easy to handle.
+● System should give expected performance results.
+● The response time should be small.

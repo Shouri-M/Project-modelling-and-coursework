@@ -1,0 +1,19 @@
+
+STOCK MANAGEMENT SYSTEM
+The stock maintenance system will allow the employees to record information of
+the items available in the store and generate reports based on the total amount
+of sales. The new system will have a windows-based desktop interface to allow
+employees to enter the information of sales, purchase orders, change employee
+preferences and create reports. The system retains information on all the items in
+the shop. The system retains the records of the cost, expiry date, vendor details,
+Discount, quantity. The employee maintains the information of the sale of the
+item. He can add the items at the right time and update the database. The
+customer can view the availability of the required items and the price of the
+items. The customer can just view them but cannot make any changes
+The process of stock maintenance system is that the customer logs in to the
+particular site to place the order for the customer product. The stock
+maintenance system is described sequentially through steps
+• The customer logs in to the particular site.
+• They fill the customer details.
+• They place the orders for their product.
+• The vendor logs in and views the customer details and orders
